@@ -1,0 +1,117 @@
+body{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+    margin-right: 140px;
+}
+li{
+    display: inline-block;
+    padding: 20px 35px;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 23px;
+    font-weight: 600;
+}
+p{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+section{
+    height: 600px;
+    padding-bottom: 315px;
+}
+.header-color{
+    color: #050527;
+    font-size: 50px;
+}
+.text-color{
+    color: salmon;
+    font-size: 50px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 45px;
+    margin-top: 65px;
+    padding-left: 50px;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 25px;
+    background-image: linear-gradient(50deg, lightSalmon, tomato);
+    color: white;
+    padding: 10px 25px;
+    border-radius: 8px;
+    font-weight: 200;
+}
+#tex-alignment{
+    text-align: center;
+    margin-bottom: 65px;
+}
+.single-area{
+    float: left;
+    width: 25%;
+    display: block;
+    margin-left: 100px;
+    padding: 20px;
+    border-radius: 20px;
+    background: white;
+    box-shadow: 10px 10px 40px #80808042;
+    margin-top: 80px;
+}
+.single-area img{
+    width: 100%;
+}
+.h2-color{
+    color: #050527;
+}
+.forth-area{
+    background: #a9a9a921;
+}
+.divid-area{
+    float: left;
+    width: 20%;
+    margin-top: 369px;
+    margin-left: 470px;
+    color: white;
+}
+#extra-alignment{
+    margin-left: 380px;
+    margin-top: 450px;
+}
+#fifth-area{
+    background-image: url("img/11.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60%;
+}
+#bolding-txt{
+    font-size: 60px;
+}
+.fotter-section{
+    text-align: center;
+}
+footer img{
+    width: 60px;
+    padding: 25px;
+}
+.improving-size{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+h3{
+    font-size: 30px;
+    color: gray;
+}
